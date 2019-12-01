@@ -1,0 +1,9 @@
+{
+    "ports": {
+        "http": 80,
+        "https": 443,
+        "app": 3000,
+        "terminal": 4000
+    },
+    "path": "/home/app/my-playmobox"
+}
